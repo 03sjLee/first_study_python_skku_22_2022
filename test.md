@@ -1,0 +1,1 @@
+# first_study_python_skku_22_2022
